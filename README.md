@@ -10,6 +10,9 @@ Python, Scikit-learn, XGBoost, Pandas, Matplotlib
 - Decision Tree
 - XGBoost
 
+## Dataset Used
+The dataset was taken from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
+
 ## Results
 Best model achieved ROC-AUC score of 0.79.
 
