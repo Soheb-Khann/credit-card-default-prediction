@@ -16,7 +16,7 @@ Best model achieved ROC-AUC score of 0.79.
 ## How to run
 
 1. Clone repo
-`git clone https://github.com/Soheb-Khann/Default-Credit-Card-Prediction.git`
+`git clone https://github.com/Soheb-Khann/credit-card-default-prediction.git`
 
 2. Install dependencies
 `pip install -r requirements.txt`
